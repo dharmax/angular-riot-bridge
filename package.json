@@ -18,11 +18,15 @@
     "@angular/platform-browser": "^15.0.0",
     "@angular/platform-browser-dynamic": "^15.0.0",
     "@angular/router": "^15.0.0",
-    "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
-    "zone.js": "~0.12.0"
+    "riot": "^7.1.0",
+    "rxjs": "^7.5.7"
   },
   "devDependencies": {
+    "@riotjs/compiler": "^6.4.0",
+    "@riotjs/hot-reload": "^6.0.1",
+    "@riotjs/register": "^6.0.1",
+    "@riotjs/cli": "^6.1.0",
     "@angular-devkit/build-angular": "^15.0.0",
     "@angular/cli": "~15.0.0",
     "@angular/compiler-cli": "^15.0.0",
